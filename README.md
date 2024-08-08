@@ -1,1 +1,6 @@
-# 05-virt-04-docker-in-practice
+Домашнее задание к занятию 5. «Практическое применение Docker»
+
+Задача 0
+![Снимок экрана от 2024-08-08 10-54-23](https://github.com/user-attachments/assets/00fcaebb-cbf8-4241-8816-36f6e55f15ce)
+
+Задача 1
